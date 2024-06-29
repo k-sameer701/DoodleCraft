@@ -3,7 +3,6 @@ package com.example.doodlecraft.screens
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
-import androidx.compose.foundation.clickable
 import androidx.compose.foundation.gestures.detectDragGestures
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -28,7 +27,6 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.input.pointer.pointerInput
@@ -39,7 +37,7 @@ import androidx.compose.ui.unit.sp
 import com.example.doodlecraft.R
 import com.example.doodlecraft.data.Line
 
-//@Preview(showSystemUi = true)
+@Preview(showSystemUi = true)
 @Composable
 fun DrawingScreen() {
     val currentLines = remember { mutableStateListOf<Line>() }
@@ -53,7 +51,8 @@ fun DrawingScreen() {
 
     if(isDialog ) {
         AlertDialog(
-            modifier = Modifier.height(500.dp),
+            modifier = Modifier
+                .height(500.dp),
             onDismissRequest = {
                 isDialog = false
             },
@@ -253,7 +252,6 @@ fun DrawingScreen() {
         )
     }
 
-
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -284,7 +282,6 @@ fun DrawingScreen() {
             ) {
                 Image(painter = painterResource(id = R.drawable.broom), contentDescription = "Clean")
             }
-
             IconButton(
                 onClick = {
                     isThemeChange = !isThemeChange
@@ -292,10 +289,10 @@ fun DrawingScreen() {
                 }
             ) {
                 themeColor = if (isThemeChange) {
-                    Image(painter = painterResource(id = R.drawable.sun), contentDescription = "Light")
+                    Image(painter = painterResource(id = R.drawable.night), contentDescription = "Dark")
                     Color.White
                 } else {
-                    Image(painter = painterResource(id = R.drawable.night), contentDescription = "Dark")
+                    Image(painter = painterResource(id = R.drawable.sun), contentDescription = "Light")
                     Color.Black
                 }
             }
@@ -330,6 +327,3 @@ fun DrawingScreen() {
         }
     }
 }
-
-
-
