@@ -59,8 +59,7 @@ This project is licensed under the [GPL-3 License](LICENSE).
 
 <div align="center">
     <img src="https://github.com/k-sameer701/k-sameer701.github.io/blob/main/img/Profilees.jpg" width="150" height="150" style="border-radius: 30%; display: block; margin: 0 auto"/>
-    <h1>DoodleCraft</h1>
-    <h3><a href="https://github.com/k-sameer701">k-sameer701</h3>
+    <h3><a href="https://github.com/k-sameer701">k-sameer701</a></h3>
         <br/>
         <p>Thank you for using <strong>DoodleCraft!</strong> Enjoy creating amazing drawings with <strong>DoodleCraft</strong>.</p>
 </div>
