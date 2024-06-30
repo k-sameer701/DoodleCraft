@@ -26,15 +26,16 @@
 ## Screenshots
 <div align="center">
 
-<img height="600px" src="" />
-<img height="600px" src="" />
+<img height="600px" src="https://github.com/k-sameer701/DoodleCraft/blob/master/Screenshot/Dark%20SS1.png" />
+
 </div>
 
 ## Installation
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
-    height="80">](https://github.com/)
+    height="80">](https://github.com/k-sameer701/DoodleCraft/releases/latest)
+
 
 1. Clone the repository:
     ```sh
