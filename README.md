@@ -27,7 +27,7 @@
 <div align="center">
 
 <img height="600px" src="https://github.com/k-sameer701/DoodleCraft/blob/master/Screenshot/Dark%20SS1.png" />
-
+<img height="600px" src="https://github.com/k-sameer701/DoodleCraft/blob/master/Screenshot/Light%20SS1.png" />
 </div>
 
 ## Installation
