@@ -1,6 +1,11 @@
-# DoodleCraft
+<div align="center">
+    <img src="https://github.com/k-sameer701/DoodleCraft/blob/master/app/src/main/res/drawable/app_icon.png" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <h1>DoodleCraft</h1>
+    <h3>This application is designed for users to draw anything they want on their screen using multiple colors. It is built using Kotlin and Jetpack Compose, making it modern, efficient, and easy to extend.</h3>
+</div>
 
-This application is designed for users to draw anything they want on their screen using multiple colors. It is built using Kotlin and Jetpack Compose, making it modern, efficient, and easy to extend.
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/k-sameer701/DoodleCraft)
+![GitHub all releases](https://img.shields.io/github/downloads/k-sameer701/DoodleCraft/total)
 
 ## Table of Contents
 
@@ -8,7 +13,6 @@ This application is designed for users to draw anything they want on their scree
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Developer](#developer)
 
@@ -20,11 +24,17 @@ This application is designed for users to draw anything they want on their scree
 - **User-Friendly Interface**: Simple and intuitive design for all ages.
 
 ## Screenshots
+<div align="center">
 
-![Drawing Interface](path/to/your/screenshot.png)
-*Description of the screenshot: A vibrant drawing interface with multiple color options and brush size selector.*
+<img height="600px" src="" />
+<img height="600px" src="" />
+</div>
 
 ## Installation
+
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Get it on GitHub"
+    height="80">](https://github.com/)
 
 1. Clone the repository:
     ```sh
@@ -43,10 +53,19 @@ This application is designed for users to draw anything they want on their scree
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GPL-3 License](LICENSE).
 
 ## Developer
 
-- GitHub: [k-sameer701](https://github.com/k-sameer701)
+<div align="center">
+    <img src="" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <h1>DoodleCraft</h1>
+    <h3><a href="https://github.com/k-sameer701">k-sameer701</h3>
+        <br/>
+        <p>Thank you for using <strong>DoodleCraft!</strong> Enjoy creating amazing drawings with <strong>DoodleCraft</strong>.</p>
+</div>
 
-Thank you for using **DoodleCraft**! Enjoy creating amazing drawings with **DoodleCraft**.
+<br/>
+<div align="center">
+    <h4>DoodleCraft &copy Sameer Kumar 2024</h4>
+</div>
