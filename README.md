@@ -4,8 +4,8 @@
     <h3>This application is designed for users to draw anything they want on their screen using multiple colors. It is built using Kotlin and Jetpack Compose, making it modern, efficient, and easy to extend.</h3>
 </div>
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/k-sameer701/DoodleCraft)
-![GitHub all releases](https://img.shields.io/github/downloads/k-sameer701/DoodleCraft/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/k-sameer701/app-release)
+![GitHub all releases](https://img.shields.io/github/downloads/k-sameer701/app-release/total)
 
 ## Table of Contents
 
